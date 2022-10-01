@@ -3,7 +3,8 @@ In this project, we will understand how a game works and how to create a Crossin
 
 More details about this project, please read <CrossingGame.pdf> file provided above.
 
-#Team Information
+
+# Team Information
 
 20127500 - Đào Ngọc Hoa
 
